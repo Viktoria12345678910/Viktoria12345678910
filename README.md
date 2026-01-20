@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 #My name is Viktoria
 my pronouns are she/her
-Currently i study in college and major in computer science. I find creting desktop applications quite enjoyable. 
+
+Currently i study in college and major in computer science. I find creting desktop applications quite enjoyable.  
 I use arch linux+kde as my main system. I enjoy writing my code in neovim it is a clean application with tons of optimization capabilities.
 Technologies
   - c++
