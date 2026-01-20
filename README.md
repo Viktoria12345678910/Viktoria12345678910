@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#My name is Viktoria
+# My name is Viktoria  
 my pronouns are she/her
 
 Currently i study in college and major in computer science. I find creting desktop applications quite enjoyable.  
